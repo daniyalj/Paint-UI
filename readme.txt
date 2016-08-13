@@ -1,7 +1,3 @@
-cse23106, 211509551, Zaganjori, Edgar
-cse31034, 212654570, Javed, Daniyal
-cse23007, 212114641, Frimpong, Richmond
-
 Welcome!
 -----------------------------------About---------------------------------------
 This is a paint app that was developed for EECS3461 by 
@@ -81,18 +77,5 @@ November 31 2015; 1 pm to 8 pm;
 
 
 Finalized the assignment and we added more features like rotate which do the effects on the images.
-
------------------
-Responsibilities:
------------------
-
-Richmond:
-Responsible for all the operations plus features dealing with loading images.
-
-Daniyal:
-Drawing, shapes and documentation and design.
-
-Edgar:
-Set up the base code. Debugging, cleanup and design.
 
 -------------------------------End of File-------------------------------------
